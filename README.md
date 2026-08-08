@@ -1,4 +1,4 @@
-# emotion-detection-app
+Final Project
 
 
 Final Project
